@@ -1,0 +1,9 @@
+//Work in progress. More experimentation required to learn what works.
+
+//Slicing 3D object to be
+//Option A: Printed object doesnt move. Structurallly optimal centre of outward growth stationary
+//Option B: Rotational masscentre at temporal maxima (when printed object is finished that point will be the centre of mass) polar stationary, axially flickered
+    //Oscillations likely to cause innacuraccy at nanoscale so getting ahead of that issue by making it part of of the process.
+
+//Galvanometer-directed calorimetric lensing through ephemeras (temporary binding-nets that selfdestruct task. 60kilopoints pr second possible
+      //curing? Sonoluminescense, acoustic standing waves to increase energydensity? 
