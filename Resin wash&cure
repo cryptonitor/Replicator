@@ -1,0 +1,19 @@
+Better way to awsh&cure 3D-printer resin stuff
+
+System concept: Photothermal-Vapor Cure Reactor (PCVR)
+
+1.Pre-wash vapor soften: Gently warm alcohol vapor softens uncured resin without full immersion.
+2. UV cure phase: 405nm LED activate once urface is softened and reflective scattering drops.
+3. Vapor Sweep: Circulating vapor clears surface resin mid-cure (no sisible poolking)
+4.Final Heat And Hard cure: Light heat + full UV solidified shell.
+
+Components.
+-Sealed chamber ()=heat adn UV-resistant, like stainless or coated aluminium. Test with HDPE upcycled from old windowwasherfluid cans.
+      -PTC heater for controlled vaporoization (50-70 degrees Celcuius sweet dpot)
+      -Fan vortex ducting. For vapoer generation.
+      -Cool zone: ^with cioooper fins or TEC for vapor condensartion
+      -Drain/collection tray (for recondensed aCOHOLOL
+      -sebsors: Temp, humidity, VOC (optional but ideal))
+      -Glass or PTFE rtating pedestal (optinonal for symemtry, vapor circulation better for economy)
+
+Easier workflow, easier automation, modular, can use sany vaporized wash, safe biologically, lower firerisk, seqaled vaporloop, less waste.
